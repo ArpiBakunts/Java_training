@@ -1,7 +1,7 @@
 package com.company;
 import java.util.Scanner;
 
-public class Main {
+public class Home_1 {
 
     public static void main(String[] args) {
         // 1.1 print the sum of two numbers.
